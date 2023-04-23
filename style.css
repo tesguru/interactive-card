@@ -247,13 +247,17 @@ form button{
     }
     .front_card{
         z-index: 100;
+        left: 4rem;
     }
     .right_section{
         margin-top: 6rem;
     }
     #number{
         right: 2rem;
-        font-size: 15px;
+        font-size: 12px;
+    }
+    .card_info{
+        font-size: 12px;
     }
     
 }
